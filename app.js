@@ -49,3 +49,5 @@ function detectUserPreference() {
     document.querySelector("#select-color-mode").value = modeFromLocalStorage;
   }
 }
+
+//_____________________
